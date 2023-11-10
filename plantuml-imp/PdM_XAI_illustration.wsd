@@ -1,0 +1,38 @@
+@startuml "PdM_XAI_illustration"
+' top to bottom direction
+' left to right direction
+' title "PdM and explainable ML illustration"
+' header "PdM XAI illustration"
+' !theme sketchy
+' skinparam conditionStyle InsideDiamond
+' skinparam conditionStyle inside
+' skinparam conditionStyle diamond
+skinparam ConditionEndStyle hline
+skinparam monochrome true
+skinparam shadowing false
+skinparam roundcorner 15
+skinparam linetype ortho
+
+' skinparam Style strictuml
+' skinparam Handwritten true
+
+' !define LIGHTSTYLE
+' !define DARKRED
+' !include https://raw.githubusercontent.com/Drakemor/RedDress-PlantUML/master/style.puml
+
+left to right direction
+package "Predictive Maintenance" {
+  ' [Anomaly detection] --> [Predictive Maintenance]
+  [Prognostics] --> [Predictive Maintenance]
+  [Diagnosis] --> [Predictive Maintenance]
+}
+
+package "explainable Machine Learning" {
+  [explainable Machine Learning] --> [End-user]
+  [explainable Machine Learning] --> [Outcome]
+  [explainable Machine Learning] --> [Model]
+  [explainable Machine Learning] --> [Data]
+}
+
+[Predictive Maintenance] --> [explainable Machine Learning]
+@enduml

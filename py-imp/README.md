@@ -19,9 +19,7 @@ Written in **Python**
 
    - R
    - Python
-   - HTML (Not really a language)
-   - CSS
-   - JavaScript
+   - PlantUML - Unified Modeling Language (UML)
 
 ## Live Demo (loading...)
 
