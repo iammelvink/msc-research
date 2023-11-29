@@ -29,14 +29,14 @@ Written in **Python**
 
 1. Make sure you have these installed
 
-   - [Mambaforge (faster Anaconda)]([https://www.x/download](https://github.com/conda-forge/miniforge/releases)/ 'Mambaforge (faster Anaconda)')
+   - [Mambaforge (faster Anaconda)](https://github.com/conda-forge/miniforge/releases/ 'Mambaforge (faster Anaconda)')
      - I used version 23.3.1-1 at time of creation
 
 2. Clone this repository into your local machine using the terminal (mac) or
    [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)')
 
    ```sh
-   git clone https://github.com/iammelvink/msc-research-project-implementation.git
+   git clone https://github.com/iammelvink/msc-research-project-2023.git
    ```
 
 3. ```sh

@@ -54,7 +54,7 @@ Written in **Python**
 2. Clone this repository into your local machine using the terminal (mac) or [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)')
 
    ```sh
-   git clone https://github.com/iammelvink/msc-research-project-implementation.git
+   git clone https://github.com/iammelvink/msc-research-project-2023.git
    ```
 
 3. ```sh

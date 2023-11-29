@@ -47,6 +47,7 @@ adjusttext = "~0.8"
 h5py = "~3.9.0"
 alibi = "~0.9.4"
 matplotlib = "3.7.*"
+visualkeras = {git = "https://github.com/iammelvink/visualkeras"}
 
 
 [build-system]

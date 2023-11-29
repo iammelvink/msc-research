@@ -1595,6 +1595,9 @@ FodyWeavers.xsd
 *.zip*
 *.xls*
 
+// Include requirements.txt
+!*requirements.txt*
+
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 

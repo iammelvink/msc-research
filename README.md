@@ -34,7 +34,7 @@ Written in **R** and **Python**
    [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)')
 
    ```sh
-   git clone https://github.com/iammelvink/msc-research-project-implementation.git
+   git clone https://github.com/iammelvink/msc-research-project-2023.git
    ```
 
 3. ```sh
