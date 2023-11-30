@@ -38,7 +38,7 @@ Written in **R** and **Python**
    ```
 
 3. ```sh
-   cd msc-research-project-implementation
+   cd msc-research-project-2023
    ```
 
 4. Install pip <https://pip.pypa.io/en/stable/installing/>
