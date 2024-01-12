@@ -1,7 +1,7 @@
 @startuml "PdM_XAI_illustration"
 ' top to bottom direction
 ' left to right direction
-' title "PdM and explainable ML illustration"
+' title "PdM and XAI illustration"
 ' header "PdM XAI illustration"
 ' !theme sketchy
 ' skinparam conditionStyle InsideDiamond
@@ -24,15 +24,15 @@ left to right direction
 package "Predictive Maintenance" {
   ' [Anomaly detection] --> [Predictive Maintenance]
   [Prognostics] --> [Predictive Maintenance]
-  [Diagnosis] --> [Predictive Maintenance]
+  [Diagnostics] --> [Predictive Maintenance]
 }
 
-package "explainable Machine Learning" {
-  [explainable Machine Learning] --> [End-user]
-  [explainable Machine Learning] --> [Outcome]
-  [explainable Machine Learning] --> [Model]
-  [explainable Machine Learning] --> [Data]
+package "eXplainable Artificial Intelligence" {
+  [eXplainable Artificial Intelligence] --> [End-user]
+  [eXplainable Artificial Intelligence] --> [Outcome]
+  [eXplainable Artificial Intelligence] --> [Model]
+  [eXplainable Artificial Intelligence] --> [Data]
 }
 
-[Predictive Maintenance] --> [explainable Machine Learning]
+[Predictive Maintenance] --> [eXplainable Artificial Intelligence]
 @enduml
