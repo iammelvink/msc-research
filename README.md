@@ -19,10 +19,6 @@ Written in **R**, **Python** and **PlantUML**
    - Python
    - PlantUML - Unified Modeling Language (UML)
 
-## Live Demo (loading...)
-
-- [dev](https://<>.amazonaws.com/dev 'dev')
-
 ## Instructions (For Python section, check README.md in "py-imp")
 
 ## More Stuff
