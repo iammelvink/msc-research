@@ -1573,17 +1573,10 @@ FodyWeavers.xsd
 *py-imp/code/pump/Assets/EDA/*
 */data/*
 *data/*
-*/data*
 
 *dedup*
 */dedup/*
 *dedup/*
-*/dedup*
-
-*r-imp*
-*/r-imp/*
-*r-imp/*
-*/r-imp*
 
 *.Rmd*
 *.json*
@@ -1594,9 +1587,20 @@ FodyWeavers.xsd
 *.RData*
 *.zip*
 *.xls*
+*.png*
+*.jpg*
+*.jpeg*
+*.svg*
+*.net*
 
-// Include requirements.txt
+// Things to include ALWAYS
 !*requirements.txt*
+!*r-imp/renv/*
+!*r-imp/renv.lock
+!*r-imp/.Rprofile
+!*r-imp/r-imp.Rproj
+!*r-imp/global.R
+!*r-imp/to-clean/*
 
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
