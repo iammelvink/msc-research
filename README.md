@@ -27,7 +27,7 @@ Written in **R**, **Python** and **PlantUML**
 
 1. Make sure you have these installed
 
-2. Clone `ONLY THE LATESST COMMIT` of this repository into your local machine using the terminal (mac) or
+2. Clone `ONLY THE LATEST COMMIT` of this repository into your local machine using the terminal (mac) or
    [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)') to save storage space
 
    ```sh

@@ -33,11 +33,11 @@ Written in **R**
      - I used version 4.3.0 at time of creation for `R`
      - I used version 2023.03.1 at time of creation for `RStudio`
 
-2. Clone this repository into your local machine using the terminal (mac) or
-   [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)')
+2. Clone `ONLY THE LATEST COMMIT` of this repository into your local machine using the terminal (mac) or
+   [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)') to save storage space
 
    ```sh
-   git clone https://github.com/iammelvink/msc-research-project-2023.git
+   git clone https://github.com/iammelvink/msc-research-project-2023.git --depth=1
    ```
 
 3. ```sh
