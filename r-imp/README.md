@@ -2,7 +2,9 @@
 
 ## Repository for my msc-research-project-implementation project
 
-Written in **R**, **Python** and **PlantUML**
+## This is the R section
+
+Written in **R**
 
 1. Methodologies/Project Management:
 
@@ -19,13 +21,17 @@ Written in **R**, **Python** and **PlantUML**
    - Python
    - PlantUML - Unified Modeling Language (UML)
 
-## Instructions (For R section, check README.md in "`r-imp`")
+## Live Demo (loading...)
 
-## Instructions (For Python section, check README.md in "`py-imp`")
+- [dev](https://<>.amazonaws.com/dev 'dev')
 
 ## Instructions
 
 1. Make sure you have these installed
+
+   - [R and RStudio](https://posit.co/download/rstudio-desktop/ 'R and RStudio')
+     - I used version 4.3.0 at time of creation for `R`
+     - I used version 2023.03.1 at time of creation for `RStudio`
 
 2. Clone this repository into your local machine using the terminal (mac) or
    [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)')
@@ -33,6 +39,20 @@ Written in **R**, **Python** and **PlantUML**
    ```sh
    git clone https://github.com/iammelvink/msc-research-project-2023.git
    ```
+
+3. ```sh
+   cd "r-imp"
+   ```
+
+4. Open R project file
+
+   ```sh
+   r-imp.Rproj
+   ```
+
+5. Open a `global.R` file in the `r-imp` directory to get started
+
+6. Enjoy!
 
 ## More Stuff
 
