@@ -1,9 +1,6 @@
-# Install on Linux (prerequisites: wget)
-
-# NB! conda init = "yes"
+# Install on Windows (prerequisites: wget)
 # # Oneliner
-# cd ~ && wget --show-progress "https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-$(uname)-$(uname -m).sh"
-bash Mambaforge-$(uname)-$(uname -m).sh
+# cd %userprofile%\Downloads && wget --show-progress -O "Mambaforge-Windows-x86_64.exe" https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-Windows-x86_64.exe && start /wait "" Mambaforge-Windows-x86_64.exe /InstallationType=JustMe /RegisterPython=1 /AddToPath=1 /S /D=%UserProfile%\Mambaforge
 
 ## Run in cmd/terminal to setup:
 #Base environment setup ONLY
@@ -79,7 +76,7 @@ dependencies:
     - console_shortcut=0.1.*
     # - end from defaults
     - cudatoolkit=11.2.*
-    # - cudnn=8.1.*
+    - cudnn=8.1.*
     - graphviz=8.1.*
     - python-graphviz=0.20.*
     - lttbc=0.2.*
