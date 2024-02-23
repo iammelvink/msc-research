@@ -6,10 +6,10 @@
 #Base environment setup ONLY
 #conda config --set report_errors false
 #conda --no-plugins
-#mamba env update --name base --file tools.yml
+#conda env update --name base --file tools.yml
 #mamba install -c conda-forge --name base conda-lock --yes
 # OR
-#mamba env update --file tools.yml
+#conda env update --file tools.yml
 #mamba install -c conda-forge conda-lock --yes
 
 ##After everything (to clear caches etc)
