@@ -46,7 +46,7 @@ Written in **Python**
 4. Setup Mambaforge base env
 
    ```sh
-   mamba env update --name base --file tools-for-base.yml && mamba activate base
+   conda env update --name base --file tools-for-base.yml && conda activate base
    ```
 
 5. Setup mamba project env:
