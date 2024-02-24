@@ -52,7 +52,7 @@ Written in **Python**
       ```
 
 2. Clone `ONLY THE LATEST COMMIT` of this repository into your local machine using the terminal (mac) or
-   [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)') to save storage space
+   [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)') `to save storage space`
 
    ```sh
    git clone https://github.com/iammelvink/msc-research-project-2023.git --depth=1

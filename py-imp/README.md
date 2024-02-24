@@ -33,7 +33,7 @@ Written in **Python**
      - I used version 23.3.1-1 at time of creation
 
 2. Clone `ONLY THE LATEST COMMIT` of this repository into your local machine using the terminal (mac) or
-   [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)') to save storage space
+   [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)') `to save storage space`
 
    ```sh
    git clone https://github.com/iammelvink/msc-research-project-2023.git --depth=1
@@ -58,7 +58,7 @@ Written in **Python**
    5.1. ONLY For Linux:
 
       ```sh
-      sudo apt update && sudo apt upgrade -y
+      sudo apt update && sudo apt upgrade -y && ubuntu-drivers devices
       ```
 
       ```sh
