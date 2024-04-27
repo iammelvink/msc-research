@@ -1,9 +1,10 @@
 # Install on Linux (prerequisites: wget)
-
-# NB! conda init = "yes"
 # # Oneliner
-# cd ~ && wget --show-progress "https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-$(uname)-$(uname -m).sh"
-bash Mambaforge-$(uname)-$(uname -m).sh
+# cd ~ ; mkdir -p "Downloads"; cd ~/Downloads ; wget "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh" --show-progress; bash Miniforge3-$(uname)-$(uname -m).sh
+
+# Install on Windows (prerequisites: wget)
+# # Oneliner
+# cd %userprofile%\Downloads && wget --show-progress -O "Mambaforge-Windows-x86_64.exe" https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-Windows-x86_64.exe && start /wait "" Mambaforge-Windows-x86_64.exe /InstallationType=JustMe /RegisterPython=1 /AddToPath=1 /S /D=%UserProfile%\Mambaforge
 
 ## Run in cmd/terminal to setup:
 #Base environment setup ONLY
