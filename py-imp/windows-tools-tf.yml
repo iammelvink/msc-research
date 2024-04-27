@@ -64,7 +64,7 @@ dependencies:
     - python=3.8.*
     - mamba=1.5.*
     - pip=23.2.*
-    - conda-lock=2.3.*
+    # - conda-lock=2.3.*
     - poetry=1.6.*
     # - conda
     - ipykernel=6.25.*
