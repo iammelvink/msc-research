@@ -1,8 +1,10 @@
-# msc-research-project-implementation
+# msc-research
 
-## Repository for my msc-research-project-implementation project
+Explainable Artificial Intelligence (XAI) Model for Predictive Maintenance (PdM) in Smart Agricultural Facilities (SAF)
 
-## This is the PLantUML section - diagrams using code (DaC - Diagram as Code)
+## XAI for PdM in SAF
+
+## This is the PLantUML section - diagrams using code (Diagram as Code - DaC)
 
 [![Code License](https://img.shields.io/badge/Code%20License-GPLv2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![Paper License](https://img.shields.io/badge/Paper%20License-IEEE-yellow.svg)](https://www.ieee.org/publications/rights/index.html)
@@ -28,7 +30,7 @@ This repository supports the paper "Explainable Artificial Intelligence Model fo
 
 Artificial Intelligence (AI) in Smart Agricultural Facilities (SAF) often lacks explainability, hindering farmers from taking full advantage of their capabilities. This study tackles this gap by introducing a model that combines eXplainable Artificial Intelligence (XAI), with Predictive Maintenance (PdM). The model aims to provide both predictive insights and explanations across four key dimensions, namely data, model, outcome, and end-user. This approach marks a shift in agricultural AI, reshaping how these technologies are understood and applied. The model outperforms related studies, showing quantifiable improvements. Specifically, the Long-Short-Term Memory (LSTM) classifier shows a 5.81% rise in accuracy. The eXtreme Gradient Boosting (XGBoost) classifier exhibits a 7.09% higher F1 score, 10.66% increased accuracy, and a 4.29% increase in Receiver Operating Characteristic-Area Under the Curve (ROC-AUC). These results could lead to more precise maintenance predictions in real-world settings. This study also provides insights into data purity, global and local explanations, and counterfactual scenarios for PdM in SAF. It advances AI by emphasising the importance of explainability beyond traditional accuracy metrics. The results confirm the superiority of the proposed model, marking a significant contribution to PdM in SAF. Moreover, this study promotes the understanding of AI in agriculture, emphasising explainability dimensions. Future research directions are advocated, including multi-modal data integration and implementing Human-in-the-Loop (HITL) systems aimed at improving the effectiveness of AI and addressing ethical concerns such as Fairness, Accountability, and Transparency (FAT) in agricultural AI applications.
 
-Written in **Python**
+Written in **PlantUML**
 
 1. Methodologies/Project Management:
 
@@ -79,7 +81,7 @@ Written in **Python**
    [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)') `to save storage space`
 
    ```sh
-   git clone https://github.com/iammelvink/msc-research-project-2023.git --depth=1
+   git clone https://github.com/iammelvink/msc-research-2023.git --depth=1
    ```
 
 3. ```sh

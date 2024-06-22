@@ -1,6 +1,8 @@
-# msc-research-project-implementation
+# msc-research
 
-## Repository for my msc-research-project-implementation project
+Explainable Artificial Intelligence (XAI) Model for Predictive Maintenance (PdM) in Smart Agricultural Facilities (SAF)
+
+## XAI for PdM in SAF
 
 [![Code License](https://img.shields.io/badge/Code%20License-GPLv2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![Paper License](https://img.shields.io/badge/Paper%20License-IEEE-yellow.svg)](https://www.ieee.org/publications/rights/index.html)
@@ -61,7 +63,7 @@ Written in **R**
    [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)') to save storage space
 
    ```sh
-   git clone https://github.com/iammelvink/msc-research-project-2023.git --depth=1
+   git clone https://github.com/iammelvink/msc-research-2023.git --depth=1
    ```
 
 3. ```sh
