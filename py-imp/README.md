@@ -62,7 +62,7 @@ Written in **Python**
    [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)') `to save storage space`
 
    ```sh
-   git clone https://github.com/iammelvink/msc-research-2023.git --depth=1
+   git clone https://github.com/iammelvink/msc-research.git --depth=1
    ```
 
 3. ```sh
