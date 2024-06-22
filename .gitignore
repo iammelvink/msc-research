@@ -1601,6 +1601,7 @@ FodyWeavers.xsd
 !*r-imp/r-imp.Rproj
 !*r-imp/global.R
 !*r-imp/to-clean/*
+!*assets/*
 
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio

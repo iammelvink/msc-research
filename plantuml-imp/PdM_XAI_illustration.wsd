@@ -28,10 +28,10 @@ package "Predictive Maintenance" {
 }
 
 package "eXplainable Artificial Intelligence" {
-  [eXplainable Artificial Intelligence] --> [End-user]
-  [eXplainable Artificial Intelligence] --> [Outcome]
-  [eXplainable Artificial Intelligence] --> [Model]
   [eXplainable Artificial Intelligence] --> [Data]
+  [eXplainable Artificial Intelligence] --> [Model]
+  [eXplainable Artificial Intelligence] --> [Outcome]
+  [eXplainable Artificial Intelligence] --> [End-user]
 }
 
 [Predictive Maintenance] --> [eXplainable Artificial Intelligence]
